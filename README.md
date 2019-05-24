@@ -1,5 +1,7 @@
 # clj-kakoune-joker
 
+![joker inside kakoune](./screenshots/wande.png)
+
 Just discovered kakoune and it is wonderful. I write a lot of clojure so i wanted
 to add linting support.
 
